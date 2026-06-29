@@ -1,0 +1,4 @@
+Different Types of LLMs and Their Differences
+Encoder-Only Models (BERT)
+Used for text understanding and classification.
+Cannot generate long text effectively.
