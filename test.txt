@@ -2,3 +2,9 @@ Different Types of LLMs and Their Differences
 Encoder-Only Models (BERT)
 Used for text understanding and classification.
 Cannot generate long text effectively.
+Decoder-Only Models (GPT, Llama)
+Generate text by predicting the next word.
+Used in chatbots, content generation, and coding assistants.
+Encoder-Decoder Models (T5, BART)
+Use an encoder to understand input and a decoder to generate output.
+Best for translation, summarization, and question answering.
